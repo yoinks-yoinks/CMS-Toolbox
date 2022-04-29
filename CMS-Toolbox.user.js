@@ -2,6 +2,7 @@
 // @name         CMS-Toolbox
 // @namespace    http://tampermonkey.net/
 // @version      0.1
+// @updateURL    https://github.com/mehmood-baryalai/CMS-Toolbox/raw/main/CMS-Toolbox.user.js
 // @description  try to take over the world!
 // @author       Mehmood Baryalai
 // @match        *://cms.buitms.edu.pk/*
